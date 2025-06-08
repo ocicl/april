@@ -4,6 +4,6 @@ The APL programming language (a subset thereof) compiling to Common Lisp.
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/phantomics/april.git |
-| commit  | 1259227                                     |
+| commit  | 0d3081a                                     |
 | systems | april                                       |
 |---------+---------------------------------------------|
